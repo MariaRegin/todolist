@@ -1,0 +1,26 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  display: block;
+  max-width: 1400px;
+  text-align: center;
+  border: 5px solid red;
+}
+
+.title__list {
+  color: rgb(59, 60, 59);
+}
+
+.button__list {
+  box-sizing: border-box;
+  color: white;
+  background-color: rgb(95, 126, 95);
+  padding: 5px;
+  margin: 5px;
+}
+
+.tasks__list {
+  list-style-type: none;
+}
