@@ -20,11 +20,7 @@
   margin: 5px;
 }
 
-.tasks-done__list {
-  text-decoration: none;
-}
-
-.tasks-done__list.checked {
+.checked {
   text-decoration: line-through;
 }
 
